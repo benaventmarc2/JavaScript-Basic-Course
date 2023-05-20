@@ -1,0 +1,10 @@
+{"level":"error","message":"Esto es un err!","service":"user-service"}
+{"level":"error","message":"Esto es un err!","service":"user-service"}
+{"level":"error","message":"Esto es un err!"}
+{"level":"error","message":"Esto es un err!"}
+{"level":"error","message":"Esto es un err!"}
+{"level":"error","message":"type have to be a number"}
+{"level":"error","message":"type have to be a number"}
+{"level":"error","message":"type have to be a numberThis is an error"}
+{"level":"error","message":"type have to be a number. Error message: This is an error"}
+{"level":"error","message":"Error: Type has to be a number"}

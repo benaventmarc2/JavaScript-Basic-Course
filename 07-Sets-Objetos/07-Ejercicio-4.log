@@ -1,0 +1,5 @@
+var edad = prompt("¿Cual es tu edad actual?")
+
+undefined
+edad
+'27'

@@ -1,0 +1,15 @@
+{
+  "name": "10-ejercicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "10-Ejercicio.js",
+  "type": "module",
+  "scripts": {
+    "start": "node 10-Ejercicio.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}

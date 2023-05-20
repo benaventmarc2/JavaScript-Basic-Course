@@ -1,0 +1,19 @@
+{"level":"warn","message":"Hola esto es un mensaje de advertencia","service":"user-service"}
+{"level":"error","message":"Esto es un err!","service":"user-service"}
+{"level":"debug","message":"Esto es un mensaje debug","service":"user-service"}
+{"level":"warn","message":"Hola esto es un mensaje de advertencia","service":"user-service"}
+{"level":"error","message":"Esto es un err!","service":"user-service"}
+{"level":"debug","message":"Esto es un mensaje debug"}
+{"level":"warn","message":"Hola esto es un mensaje de advertencia"}
+{"level":"error","message":"Esto es un err!"}
+{"level":"debug","message":"Esto es un mensaje debug"}
+{"level":"warn","message":"Hola esto es un mensaje de advertencia"}
+{"level":"error","message":"Esto es un err!"}
+{"level":"debug","message":"Esto es un mensaje debug"}
+{"level":"warn","message":"Hola esto es un mensaje de advertencia"}
+{"level":"error","message":"Esto es un err!"}
+{"level":"error","message":"type have to be a number"}
+{"level":"error","message":"type have to be a number"}
+{"level":"error","message":"type have to be a numberThis is an error"}
+{"level":"error","message":"type have to be a number. Error message: This is an error"}
+{"level":"error","message":"Error: Type has to be a number"}
